@@ -823,3 +823,69 @@ input:focus, select:focus, textarea:focus {
   .reveal { opacity: 1; transform: none; }
   .petal { display: none; }
 }
+
+/* ---------- Genuine brand assets (logo, slogan, photos) ---------- */
+.brand--logo {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.3rem;
+}
+.brand--logo img {
+  height: 36px;
+  width: auto;
+  display: block;
+}
+.brand-slogan {
+  font-family: var(--mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--leaf);
+  line-height: 1;
+  white-space: nowrap;
+}
+.brand--footer img {
+  height: 44px;
+  background: var(--paper);
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  box-sizing: content-box;
+}
+.brand--footer .brand-slogan { color: var(--wax-soft); margin-top: 0.2rem; }
+
+.family-figure img { width: 100%; height: auto; display: block; }
+
+.region-photo {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 0.4rem;
+}
+
+.card-photo {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 1.1rem;
+  display: block;
+  border: 1px solid var(--line);
+}
+
+.program-logo {
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+  display: block;
+  background: #fff;
+  padding: 0.7rem 1rem;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  margin-bottom: 1.1rem;
+}
+
+@media (max-width: 480px) {
+  .brand--logo img { height: 30px; }
+  .brand-slogan { font-size: 0.52rem; }
+}
