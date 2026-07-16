@@ -825,33 +825,18 @@ input:focus, select:focus, textarea:focus {
 }
 
 /* ---------- Genuine brand assets (logo, slogan, photos) ---------- */
-.brand--logo {
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 0.3rem;
-}
 .brand--logo img {
-  height: 36px;
+  height: 52px;
   width: auto;
   display: block;
 }
-.brand-slogan {
-  font-family: var(--mono);
-  font-size: 0.6rem;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--leaf);
-  line-height: 1;
-  white-space: nowrap;
-}
 .brand--footer img {
-  height: 44px;
+  height: 56px;
   background: var(--paper);
-  padding: 0.5rem 0.75rem;
+  padding: 0.55rem 0.85rem;
   border-radius: 8px;
   box-sizing: content-box;
 }
-.brand--footer .brand-slogan { color: var(--wax-soft); margin-top: 0.2rem; }
 
 .family-figure img { width: 100%; height: auto; display: block; }
 
@@ -886,6 +871,5 @@ input:focus, select:focus, textarea:focus {
 }
 
 @media (max-width: 480px) {
-  .brand--logo img { height: 30px; }
-  .brand-slogan { font-size: 0.52rem; }
+  .brand--logo img { height: 42px; }
 }
