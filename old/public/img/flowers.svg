@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
+
+  <!-- ============ WAXFLOWER SPRIG (Chamelaucium) ============ -->
+  <symbol id="waxflower" viewBox="0 0 320 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 415 C158 340 150 290 138 240 C128 200 118 160 116 120" stroke="currentColor" stroke-width="3"/>
+    <path d="M148 300 C180 275 210 260 236 252" stroke="currentColor" stroke-width="2.5"/>
+    <path d="M140 250 C110 225 92 205 84 182" stroke="currentColor" stroke-width="2.5"/>
+    <path d="M120 160 C150 140 178 126 204 118" stroke="currentColor" stroke-width="2.5"/>
+    <path d="M117 130 C96 106 84 86 80 62" stroke="currentColor" stroke-width="2.5"/>
+    <g stroke="currentColor" stroke-width="2">
+      <path d="M156 380 l-24 -14"/><path d="M158 360 l22 -16"/><path d="M150 335 l-22 -12"/>
+      <path d="M146 312 l20 -18"/><path d="M170 288 l16 -18"/><path d="M195 272 l14 -20"/>
+      <path d="M128 232 l-22 -8"/><path d="M104 210 l-20 -6"/><path d="M130 210 l18 -16"/>
+      <path d="M126 186 l-20 -12"/><path d="M140 150 l20 -16"/><path d="M168 136 l16 -18"/>
+      <path d="M110 148 l-20 -10"/><path d="M100 118 l-18 -12"/><path d="M92 92 l16 -16"/>
+    </g>
+    <g transform="translate(240 244)">
+      <g stroke="currentColor" stroke-width="2.5" fill="none">
+        <ellipse rx="13" ry="17" transform="rotate(0) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(72) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(144) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(216) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(288) translate(0 -20)"/>
+      </g>
+      <circle r="8.5" stroke="currentColor" stroke-width="2.5" fill="none"/>
+      <circle r="2.6" fill="currentColor"/>
+    </g>
+    <g transform="translate(78 172) scale(0.82)">
+      <g stroke="currentColor" stroke-width="2.5" fill="none">
+        <ellipse rx="13" ry="17" transform="rotate(10) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(82) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(154) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(226) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(298) translate(0 -20)"/>
+      </g>
+      <circle r="8.5" stroke="currentColor" stroke-width="2.5" fill="none"/>
+      <circle r="2.6" fill="currentColor"/>
+    </g>
+    <g transform="translate(212 108) scale(0.92)">
+      <g stroke="currentColor" stroke-width="2.5" fill="none">
+        <ellipse rx="13" ry="17" transform="rotate(-8) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(64) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(136) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(208) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(280) translate(0 -20)"/>
+      </g>
+      <circle r="8.5" stroke="currentColor" stroke-width="2.5" fill="none"/>
+      <circle r="2.6" fill="currentColor"/>
+    </g>
+    <g transform="translate(78 50) scale(0.7)">
+      <g stroke="currentColor" stroke-width="2.8" fill="none">
+        <ellipse rx="13" ry="17" transform="rotate(20) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(92) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(164) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(236) translate(0 -20)"/>
+        <ellipse rx="13" ry="17" transform="rotate(308) translate(0 -20)"/>
+      </g>
+      <circle r="8.5" stroke="currentColor" stroke-width="2.8" fill="none"/>
+      <circle r="2.6" fill="currentColor"/>
+    </g>
+    <circle cx="118" cy="98" r="6" stroke="currentColor" stroke-width="2.2" fill="none"/>
+    <circle cx="132" cy="220" r="5" stroke="currentColor" stroke-width="2.2" fill="none"/>
+  </symbol>
+
+  <!-- ============ KING PROTEA ============ -->
+  <symbol id="protea" viewBox="0 0 300 400" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 395 C152 340 150 300 150 258" stroke="currentColor" stroke-width="4"/>
+    <path d="M150 350 C120 342 96 322 88 292 C118 296 140 316 150 350 Z" stroke="currentColor" stroke-width="2.5"/>
+    <path d="M151 320 C182 314 206 296 216 268 C186 270 162 288 151 320 Z" stroke="currentColor" stroke-width="2.5"/>
+    <g stroke="currentColor" stroke-width="2.5">
+      <path d="M150 250 C110 246 78 226 62 192 C82 200 104 208 122 222"/>
+      <path d="M150 250 C190 246 222 226 238 192 C218 200 196 208 178 222"/>
+      <path d="M150 248 C118 232 98 204 92 168 C112 184 132 204 144 226"/>
+      <path d="M150 248 C182 232 202 204 208 168 C188 184 168 204 156 226"/>
+      <path d="M148 244 C130 218 122 186 128 150 C142 172 152 200 152 228"/>
+      <path d="M152 244 C170 218 178 186 172 150 C158 172 148 200 148 228"/>
+      <path d="M146 240 C142 210 148 176 166 146 C168 176 162 210 154 234"/>
+      <path d="M154 240 C158 210 152 176 134 146 C132 176 138 210 146 234"/>
+    </g>
+    <path d="M110 236 C112 208 128 188 150 184 C172 188 188 208 190 236" stroke="currentColor" stroke-width="2.5"/>
+    <g stroke="currentColor" stroke-width="1.8">
+      <path d="M118 232 C120 214 130 200 142 194"/>
+      <path d="M130 236 C132 218 140 205 150 199"/>
+      <path d="M143 238 C145 221 151 209 159 203"/>
+      <path d="M156 238 C160 222 166 211 173 206"/>
+      <path d="M169 235 C174 221 179 213 183 209"/>
+    </g>
+    <g stroke="currentColor" stroke-width="1.6">
+      <path d="M76 200 l-8 -6"/><path d="M224 200 l8 -6"/>
+      <path d="M100 176 l-6 -8"/><path d="M200 176 l6 -8"/>
+      <path d="M132 154 l-3 -9"/><path d="M168 154 l3 -9"/>
+    </g>
+  </symbol>
+
+  <!-- ============ KANGAROO PAW ============ -->
+  <symbol id="kangaroopaw" viewBox="0 0 280 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 415 C142 340 140 280 138 220" stroke="currentColor" stroke-width="4"/>
+    <path d="M138 400 C100 380 78 344 74 300 C104 322 128 356 140 396" stroke="currentColor" stroke-width="2.5"/>
+    <path d="M142 392 C178 370 198 336 202 294 C174 314 152 348 142 388" stroke="currentColor" stroke-width="2.5"/>
+    <g stroke="currentColor" stroke-width="3">
+      <path d="M138 220 C120 190 106 158 102 122"/>
+      <path d="M138 220 C132 186 130 152 134 116"/>
+      <path d="M138 220 C150 188 158 154 158 118"/>
+      <path d="M138 220 C164 196 182 168 190 134"/>
+      <path d="M138 220 C110 202 90 178 80 148"/>
+    </g>
+    <g stroke="currentColor" stroke-width="2.5">
+      <path d="M102 122 l-10 -14 M102 122 l-1 -17 M102 122 l8 -14"/>
+      <path d="M134 116 l-9 -14 M134 116 l1 -17 M134 116 l10 -13"/>
+      <path d="M158 118 l-7 -15 M158 118 l4 -16 M158 118 l13 -11"/>
+      <path d="M190 134 l-3 -17 M190 134 l9 -14 M190 134 l15 -8"/>
+      <path d="M80 148 l-15 -9 M80 148 l-9 -15 M80 148 l1 -17"/>
+    </g>
+    <g stroke="currentColor" stroke-width="1.4">
+      <path d="M112 180 l-6 -3"/><path d="M120 160 l-6 -3"/>
+      <path d="M132 178 l-6 -1"/><path d="M133 152 l-6 -1"/>
+      <path d="M148 176 l6 -2"/><path d="M153 150 l6 -3"/>
+      <path d="M166 190 l6 -4"/><path d="M177 168 l6 -4"/>
+      <path d="M102 192 l-6 -5"/><path d="M92 172 l-7 -4"/>
+    </g>
+  </symbol>
+
+  <!-- ============ BANKSIA ============ -->
+  <symbol id="banksia" viewBox="0 0 280 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 415 C140 360 140 330 140 296" stroke="currentColor" stroke-width="4"/>
+    <path d="M138 380 l-16 6 8 4 -16 6 8 4 -16 6 8 4 -14 6 C86 400 74 386 72 368 l14 2 -6 -8 14 2 -6 -8 14 2 -6 -8 14 2 C124 358 134 368 138 380 Z" stroke="currentColor" stroke-width="2"/>
+    <path d="M142 356 l16 5 -8 4 16 5 -8 4 16 5 -8 4 14 5 C196 372 208 358 210 340 l-14 2 6 -8 -14 2 6 -8 -14 2 6 -8 -14 2 C156 334 146 344 142 356 Z" stroke="currentColor" stroke-width="2"/>
+    <path d="M140 290 C104 290 84 258 84 200 C84 130 108 84 140 84 C172 84 196 130 196 200 C196 258 176 290 140 290 Z" stroke="currentColor" stroke-width="3"/>
+    <g stroke="currentColor" stroke-width="1.5">
+      <path d="M92 232 C124 244 156 244 188 232"/>
+      <path d="M88 200 C122 212 158 212 192 200"/>
+      <path d="M90 168 C122 180 158 180 190 168"/>
+      <path d="M96 136 C126 148 154 148 184 136"/>
+      <path d="M108 108 C128 118 152 118 172 108"/>
+      <path d="M104 260 C126 270 154 270 176 260"/>
+      <path d="M104 96 C104 150 104 220 108 268"/>
+      <path d="M122 88 C120 150 120 230 124 282"/>
+      <path d="M140 84 C138 150 138 230 140 290"/>
+      <path d="M158 88 C160 150 160 230 156 282"/>
+      <path d="M176 96 C176 150 176 220 172 268"/>
+    </g>
+    <path d="M128 80 C132 68 136 62 140 58 C144 62 148 68 152 80" stroke="currentColor" stroke-width="2.2"/>
+  </symbol>
+
+  <!-- ============ SINGLE WAXFLOWER BLOOM (mark / bullet) ============ -->
+  <symbol id="bloom" viewBox="0 0 100 100" fill="none">
+    <g transform="translate(50 50)" stroke="currentColor" stroke-width="4.5" stroke-linecap="round">
+      <ellipse rx="12.5" ry="16.5" transform="rotate(0) translate(0 -19)"/>
+      <ellipse rx="12.5" ry="16.5" transform="rotate(72) translate(0 -19)"/>
+      <ellipse rx="12.5" ry="16.5" transform="rotate(144) translate(0 -19)"/>
+      <ellipse rx="12.5" ry="16.5" transform="rotate(216) translate(0 -19)"/>
+      <ellipse rx="12.5" ry="16.5" transform="rotate(288) translate(0 -19)"/>
+      <circle r="8" />
+      <circle r="2.4" fill="currentColor" stroke="none"/>
+    </g>
+  </symbol>
+
+  <!-- ============ FILLED BLOOM ============ -->
+  <symbol id="bloom-solid" viewBox="0 0 100 100">
+    <g transform="translate(50 50)" fill="currentColor">
+      <ellipse rx="12" ry="16" transform="rotate(0) translate(0 -19)"/>
+      <ellipse rx="12" ry="16" transform="rotate(72) translate(0 -19)"/>
+      <ellipse rx="12" ry="16" transform="rotate(144) translate(0 -19)"/>
+      <ellipse rx="12" ry="16" transform="rotate(216) translate(0 -19)"/>
+      <ellipse rx="12" ry="16" transform="rotate(288) translate(0 -19)"/>
+    </g>
+    <circle cx="50" cy="50" r="7.5" fill="var(--bloom-core, #fff)"/>
+  </symbol>
+
+  <!-- ============ SPRIG DIVIDER ORNAMENT ============ -->
+  <symbol id="sprig" viewBox="0 0 240 40" fill="none" stroke-linecap="round">
+    <path d="M10 20 H96 M144 20 H230" stroke="currentColor" stroke-width="1.5"/>
+    <g transform="translate(120 20)" stroke="currentColor" stroke-width="2.2">
+      <ellipse rx="5.5" ry="8" transform="rotate(0) translate(0 -9.5)"/>
+      <ellipse rx="5.5" ry="8" transform="rotate(72) translate(0 -9.5)"/>
+      <ellipse rx="5.5" ry="8" transform="rotate(144) translate(0 -9.5)"/>
+      <ellipse rx="5.5" ry="8" transform="rotate(216) translate(0 -9.5)"/>
+      <ellipse rx="5.5" ry="8" transform="rotate(288) translate(0 -9.5)"/>
+      <circle r="2" fill="currentColor" stroke="none"/>
+    </g>
+  </symbol>
+
+  <!-- ============ EUCALYPTUS LEAF STEM ============ -->
+  <symbol id="eucalypt" viewBox="0 0 400 120" fill="none" stroke-linecap="round">
+    <path d="M8 100 C110 80 240 50 392 16" stroke="currentColor" stroke-width="2.5"/>
+    <g stroke="currentColor" stroke-width="2">
+      <path d="M60 90 C48 74 48 60 58 46 C70 58 72 74 60 90 Z"/>
+      <path d="M120 76 C110 60 112 46 124 34 C134 46 134 62 120 76 Z"/>
+      <path d="M182 62 C172 46 174 32 186 20 C196 32 196 48 182 62 Z"/>
+      <path d="M244 48 C236 32 238 18 250 8 C260 20 258 36 244 48 Z"/>
+      <path d="M306 36 C298 22 300 8 312 0 C320 12 318 26 306 36 Z"/>
+      <path d="M96 96 C104 108 118 112 132 108 C126 96 110 90 96 96 Z"/>
+      <path d="M160 82 C168 94 182 98 196 94 C190 82 174 76 160 82 Z"/>
+      <path d="M224 68 C232 80 246 84 260 80 C254 68 238 62 224 68 Z"/>
+      <path d="M288 54 C296 64 310 68 324 64 C318 52 302 48 288 54 Z"/>
+    </g>
+  </symbol>
+
+</svg>
